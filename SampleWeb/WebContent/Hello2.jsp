@@ -6,6 +6,6 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		Hello2 수정
+		Hello2 수정 완료
 	</body>
 </html>
